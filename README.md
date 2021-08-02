@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps, Terraform, K8s, Docker, Microservices, Ansible, Python, Bash, Ansible, GNU/Linux, AWS, Azure, Gcloud
 - 🌱 I’m currently learning Terratest, Kafka
 - 💞️ I’m looking to collaborate in crypto projects
-- 📫 How to reach me: gonzalomarcote<at>gmail.com - https://www.linkedin.com/in/gonzalomarcote
+- 📫 How to reach me: gonzalomarcote_at_gmail.com - https://www.linkedin.com/in/gonzalomarcote
 
 <!---
 gonzalomarcote/gonzalomarcote is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
